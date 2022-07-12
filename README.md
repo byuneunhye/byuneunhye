@@ -2,9 +2,7 @@
 
  <div align="center">
  
-ℂ𝕃𝕀ℂ𝕂 𝕄𝔼!👉<a href="https://blog.naver.com/studyeunhye/222758339206">![](https://img.shields.io/badge/BLOG-03C75A?style=flatsquare&logo=NAVER&logoColor=white)</a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyuneunhye&count_bg=%23FBFFF7&title_bg=%23555555&icon=&icon_color=%%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-👈
+
 
 
 
