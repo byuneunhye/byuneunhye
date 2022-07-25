@@ -18,7 +18,6 @@
 
 
 
-<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byuneunhye&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <div align="right">
 𝑂𝑢𝑟 𝑔𝑟𝑒𝑎𝑡𝑒𝑠𝑡 𝑤𝑒𝑎𝑘𝑛𝑒𝑠𝑠 𝑙𝑖𝑒𝑠 𝑖𝑛 𝑔𝑖𝑣𝑖𝑛𝑔 𝑢𝑝. 
