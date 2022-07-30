@@ -20,8 +20,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byuneunhye&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <div align="right">
-𝑂𝑢𝑟 𝑔𝑟𝑒𝑎𝑡𝑒𝑠𝑡 𝑤𝑒𝑎𝑘𝑛𝑒𝑠𝑠 𝑙𝑖𝑒𝑠 𝑖𝑛 𝑔𝑖𝑣𝑖𝑛𝑔 𝑢𝑝. 
-
-𝑇ℎ𝑒 𝑚𝑜𝑠𝑡 𝑐𝑒𝑟𝑡𝑎𝑖𝑛 𝑤𝑎𝑦 𝑡𝑜 𝑠𝑢𝑐𝑐𝑒𝑒𝑑 𝑖𝑠 𝑎𝑙𝑤𝑎𝑦𝑠 𝑡𝑜 𝑡𝑟𝑦 𝑗𝑢𝑠𝑡 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑡𝑖𝑚𝑒.
 
 
